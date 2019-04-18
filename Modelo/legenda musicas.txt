@@ -1,0 +1,5 @@
+1 = sertanejo
+2 = axe
+3 = rap
+4 = funk Brasil
+5 = gospel
